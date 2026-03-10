@@ -16,7 +16,7 @@ function App() {
       <div className="absolute inset-0 bg-black/75"></div>
 
       {/* Content */}
-      <div className="relative z-10 text-center px-4 max-w-4xl mx-auto backdrop-blur-sm p-5 rounded-md">
+      <div className="relative z-10 text-center px-4 max-w-4xl mx-auto  p-5 rounded-md">
         <h1 className="text-4xl md:text-6xl font-bold mb-8 text-white drop-shadow-lg">
           WonderPals 2026 <br /> March Madness
         </h1>
